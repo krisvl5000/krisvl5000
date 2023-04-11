@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisvl5000&label=Profile%20views&color=0e75b6&style=flat" alt="krisvl5000" /> </p>
 
-- 🔭 I’m currently studying **C# Advanced**
+- 🔭 Currently studying **HTML and CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
